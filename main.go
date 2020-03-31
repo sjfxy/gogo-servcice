@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/cloudfoundry-community/go-cfenv"
-	service "www.cloudnative.com/gogo-servcice/service"
+	service "github.com/sjfxy/gogo-servcice/service"
 )
 
 //测试部署
