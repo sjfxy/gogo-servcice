@@ -1,4 +1,4 @@
-package: github.com/sjfxy/gogo-servcice
+package: github.com/cloudnativego/gogo-servcice
 import:
 - package: github.com/cloudfoundry-community/go-cfenv
 - package: github.com/cloudnativego/cf-tools
