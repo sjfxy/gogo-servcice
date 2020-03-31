@@ -8,6 +8,7 @@ import (
 	service "github.com/cloudnativego/gogo-service/service"
 )
 
+//测试部署
 func main() {
 	port := os.Getenv("PORT")
 	if len(port) == 0 {
