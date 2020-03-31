@@ -5,7 +5,7 @@ import (
 
 	"github.com/cloudnativego/cfmgo"
 	"github.com/cloudnativego/gogo-engine"
-	"github.com/sjfxy/gogo-servcice/fakes"
+	"github.com/cloudnativego/gogo-service/service/fakes"
 )
 
 var (
